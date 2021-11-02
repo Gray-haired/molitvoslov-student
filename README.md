@@ -1,1 +1,1 @@
-# molitvoslov-student
+# molitvoslov
